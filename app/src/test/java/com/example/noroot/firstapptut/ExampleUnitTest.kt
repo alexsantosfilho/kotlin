@@ -1,4 +1,4 @@
-package com.example.noroot.myapplication
+package com.example.noroot.firstapptut
 
 import org.junit.Test
 

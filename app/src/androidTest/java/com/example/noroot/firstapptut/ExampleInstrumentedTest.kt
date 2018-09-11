@@ -1,4 +1,4 @@
-package com.example.noroot.myapplication
+package com.example.noroot.firstapptut
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.example.noroot.myapplication", appContext.packageName)
+        assertEquals("com.example.noroot.firstapptut", appContext.packageName)
     }
 }
